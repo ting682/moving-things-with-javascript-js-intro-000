@@ -6,6 +6,7 @@ dodger.style.left // "180px"
 dodger.style.bottom // "0px"
 dodger.style.bottom = '100px'
 dodger.style.bottom = '0px'
+dodger.style.left
 //document.addEventListener('keydown', function(e) {
 //  console.log(e.which)
 //})
